@@ -1,0 +1,37 @@
+@font-face {
+    font-family: 'Monserrat';
+    src: url("../font/Montserrat/Montserrat-VariableFont_wght.ttf");
+}
+*{
+    font-family: 'Monserrat';
+}
+main{
+    margin: -20px 30px 20px 30px;
+    background-image: url('../img/banner\ 4\ -\ fundo.png');
+    box-shadow: 1px 2px 2px rgba(0, 0, 0, 0.534);
+}
+img#aju{
+    margin-top: 40px;
+    margin-left: 996px;
+    height: 3.7%;
+    width: 3.7%;
+}
+img#vol{
+    padding-top: 20px;
+    margin-top: -40px;
+    margin: -30px 600px 20px 600px;
+    height: 3.7%;
+    width: 3%;
+}
+p{
+    display: inline-block;
+    padding: 10px;
+}
+img{
+    margin: 10px 65px 20px 65px;
+    height: 23%;
+    width: 23%;
+}
+div{
+    display: inline-block;
+}
